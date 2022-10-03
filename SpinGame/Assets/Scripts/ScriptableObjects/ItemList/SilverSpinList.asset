@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9358bbed35f1a48a867857123e6cde, type: 3}
+  m_Name: SilverSpinList
+  m_EditorClassIdentifier: 
+  spinSelector: 1
+  list:
+  - {fileID: 11400000, guid: dafd5f25a586e5749a3d98357e19fdfd, type: 2}
+  - {fileID: 11400000, guid: c088dddea980610479c91d5a5d8fb496, type: 2}
+  - {fileID: 11400000, guid: d236ce6ad1952cd409aede67407e640e, type: 2}
+  - {fileID: 11400000, guid: 053342466ab2d374384774499d8a7331, type: 2}
+  - {fileID: 11400000, guid: 134e6e0ca0ccabc43bc5cdfdabe694d1, type: 2}
+  - {fileID: 11400000, guid: 473947ced05334f47b9327c00e093bcb, type: 2}
+  - {fileID: 11400000, guid: f26e1acf065c4034e9d7a72eb4d0247a, type: 2}
+  - {fileID: 11400000, guid: 6daeec4b236f68547b53bd8da87f0ed9, type: 2}
+  spinTypeName: ui_spin_silver_base
+  spinLevelIndicator: ui_card_panel_zone_super

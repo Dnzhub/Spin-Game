@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MainSceneBox
+  m_EditorClassIdentifier: 
+  m_GroupName: MainSceneBox
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 36f5fff54b6628e4093f7ec9013cf9aa
+  m_SerializeEntries:
+  - m_GUID: 91d5cfc4ece02d146a575daa54b5f30a
+    m_Address: Assets/ui_content/UI_button_grey_standard.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d16c7bc4fe1a0644bd77e59445a0577
+    m_Address: Assets/ui_content/UI_button_orange_standard.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a13602538368d754bbab31ad587eaad2
+    m_Address: Assets/ui_content/ui_card_frame_4px_zone.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0839d06065700234897574547f9f4ff5
+    m_Address: Assets/ui_content/ui_card_frame_12px_neutral.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: acfa9dfd6639e3843bc392eb7f92e589
+    m_Address: Assets/ui_content/ui_card_frame_gardient.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e291e87fec9c724c834d4b8182646b2
+    m_Address: Assets/ui_content/ui_card_icon_death.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af39fdfc21e9b0b48aa9c3b7d2cab586
+    m_Address: Assets/ui_content/ui_card_panel_zone_bg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 235e65e7bbf06984e9685fbec4f73df3
+    m_Address: Assets/ui_content/ui_card_panel_zone_coming.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5de6316dba4ece94f9d2b4fb77a8ab55
+    m_Address: Assets/ui_content/ui_card_panel_zone_current.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfb9126ec966b74438e9979cb7db90b1
+    m_Address: Assets/ui_content/ui_card_panel_zone_current_white.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fee320e0d97f5214189e58e6919ecd73
+    m_Address: Assets/ui_content/ui_card_panel_zone_super.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4dcc156abc6f7144da832152963a789b
+    m_Address: Assets/ui_content/ui_card_panel_zone_white.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11b2988f6c59a5840beb60c74c00ce99
+    m_Address: Assets/ui_content/ui_card_zone_map_frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfd87dcf8183c564b99bb73cbaa38ef1
+    m_Address: Assets/ui_content/ui_icon_aviator_glasses_easter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29e552ed5afcfb448ae4d5c4ac2a98d1
+    m_Address: Assets/ui_content/ui_icon_baseball_cap_easter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aaf42ef5f835c4247be2d3e89cda5d36
+    m_Address: Assets/ui_content/UI_icon_cash.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 761352463505ab94798306f36bc17b1a
+    m_Address: Assets/ui_content/UI_icon_chest_big_nolight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23aa4cd208f938c4f95e4c97303b2476
+    m_Address: Assets/ui_content/UI_icon_chest_Bronze_nolight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e49413f40641444089140711d91a991
+    m_Address: Assets/ui_content/UI_icon_chest_gold_nolight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58ea4e45566abb1439ea2238610536fa
+    m_Address: Assets/ui_content/UI_icon_chest_silver_nolight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da6da038670d1054b905ae5602292783
+    m_Address: Assets/ui_content/UI_icon_chest_small_noligt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47ae4f3f6ab661b4fa3e43282b8fe466
+    m_Address: Assets/ui_content/UI_icon_chest_standart_nolight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f41e4dde798da04d8ce2cad3fd134b6
+    m_Address: Assets/ui_content/UI_icon_chest_super_nolight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a330b7fe14de124ba631c3dc229dead
+    m_Address: Assets/ui_content/UI_icon_gold.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 775a59bd923038b4d9c972e24cdceffe
+    m_Address: Assets/ui_content/ui_icon_helmet_pumpkin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9166f7bbd3ac4af4783c32e237b8c706
+    m_Address: Assets/ui_content/ui_icon_mle_bayonet_easter_time.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f4ebebb972f28445a439e68ab6f15c1
+    m_Address: Assets/ui_content/ui_icon_mle_bayonet_summer_vice.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 575608a111e2a7c499ed3243b377426f
+    m_Address: Assets/ui_content/ui_icon_render_cons_grenade_m26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3770b7cf40bccbd4bac577c505afd500
+    m_Address: Assets/ui_content/ui_icon_render_cons_grenade_m67.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77e03952b5747644299f513c659e3dfc
+    m_Address: Assets/ui_content/ui_icon_render_cons_healthshot_2_neurostim.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a364ac1d4851f541b670a9f8977d4ca
+    m_Address: Assets/ui_content/ui_icon_render_cons_healthshot_2_regenerator.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d686e82605047b04387e162851f05a59
+    m_Address: Assets/ui_content/ui_icon_render_t_cons_molotov.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54fa5d56937ab3b479b6344452e64d63
+    m_Address: Assets/ui_content/UI_Icon_Renders_tier1_shotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d4c5075f7fba45419cc02d331664641
+    m_Address: Assets/ui_content/UI_Icon_Renders_tier2_mle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef10ab5d40d323c40a1c04b2f9e73568
+    m_Address: Assets/ui_content/UI_Icon_Renders_tier2_rifle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 947e347001f2bad43961c93682c171fa
+    m_Address: Assets/ui_content/UI_Icon_Renders_tier3_shotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bb2f45db34a44449980d65fe62991ec
+    m_Address: Assets/ui_content/UI_Icon_Renders_tier3_smg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 415b24ab1c6390b46acfaf1301bff822
+    m_Address: Assets/ui_content/UI_Icon_Renders_tier3_sniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9de53d6635e66364ea7d505d7b1e2a20
+    m_Address: Assets/ui_content/UI_Icons_Armor_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ecac767bdcd93f40903467611bd5964
+    m_Address: Assets/ui_content/UI_Icons_Knife_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 126ea7c845d67bf48b5fc47c31c8830f
+    m_Address: Assets/ui_content/UI_Icons_Pistol_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8c5b16c010de0741b49bb63263f5604
+    m_Address: Assets/ui_content/UI_Icons_Pistol_Points_.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aaadf6a22c53557409ae431578264eaf
+    m_Address: Assets/ui_content/UI_Icons_Rifle_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e54eb179d00a79343afcf0ce6173998d
+    m_Address: Assets/ui_content/UI_Icons_Shotgun_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e50b7b53a37ece8418d1c64d43e32f8f
+    m_Address: Assets/ui_content/UI_Icons_SMG_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d386ac4e58c59d43b921096c42dc870
+    m_Address: Assets/ui_content/UI_Icons_Sniper_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 542c250ae5f506f4ca64353f974ce9c4
+    m_Address: Assets/ui_content/UI_Icons_Submachine_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1079889509f57e744b0adadb935b95c5
+    m_Address: Assets/ui_content/UI_Icons_Vest_Points.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f44fc2849dc087e42933804ea1696af3
+    m_Address: Assets/ui_content/ui_spin_bronze_base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce5df736b5a3aaa4692c256d034f482a
+    m_Address: Assets/ui_content/ui_spin_bronze_indicator.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43308f621c9a2f2459b625329b617bd5
+    m_Address: Assets/ui_content/ui_spin_generic_button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcdba109672d0b145b05faac31c89b22
+    m_Address: Assets/ui_content/ui_spin_golden_base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85c4ad2d5c40e5d408fadff13181644e
+    m_Address: Assets/ui_content/ui_spin_golden_indicator.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97ad5d37cb99e1247b46ed17dbd78e76
+    m_Address: Assets/ui_content/ui_spin_silver_base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc6224c539c9b7e4e875942b3c53810a
+    m_Address: Assets/ui_content/ui_spin_silver_indicator.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba8acdd117a89704b9d666b6afd85e4b
+    m_Address: Assets/ui_content/ui_vfx_offer_shine.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc80ca92aa2f21542bc98c50acb9576d
+    m_Address: Assets/ui_content/New Sprite Atlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: da8f287993a930b4391dc749a8e18136, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c30367ef0759604abf1e73ea7edd04c, type: 2}
+    - {fileID: 11400000, guid: 938e7ffb6ec9ddf4e85d525e325dd52c, type: 2}

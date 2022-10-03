@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9358bbed35f1a48a867857123e6cde, type: 3}
+  m_Name: GoldenSpinList
+  m_EditorClassIdentifier: 
+  spinSelector: 2
+  list:
+  - {fileID: 11400000, guid: bff411c1f4bba4041a9308b858ff0843, type: 2}
+  - {fileID: 11400000, guid: 6e269f15adee90e41afe5f96a774df03, type: 2}
+  - {fileID: 11400000, guid: e7b7b7667e115f2469c4043e2993113d, type: 2}
+  - {fileID: 11400000, guid: ff752fed163f94947ad8a489b4363743, type: 2}
+  - {fileID: 11400000, guid: 9b494a1e872f32d4f9152c46455cd85a, type: 2}
+  - {fileID: 11400000, guid: c7e583a01f0b61c4a995c640c45450ed, type: 2}
+  - {fileID: 11400000, guid: eefda87c11cdcc04f9f3589dc2d8637f, type: 2}
+  - {fileID: 11400000, guid: 8362336802126b542badc68dc947fd29, type: 2}
+  spinTypeName: ui_spin_golden_base
+  spinLevelIndicator: UI_button_orange_standard
